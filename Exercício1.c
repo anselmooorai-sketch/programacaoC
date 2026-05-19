@@ -6,11 +6,12 @@ float altura =
 double
 saldoBancario =
 12345.67;
-chat inicial = 
+char inicial = 
 'A';
-chat nome [20]=
-"Bruno";
+chat nome [20]="Bruno";
 
 printf("Idade> %d anos\n",
 idade);
-prinf("Altura> %.2f metros\n",
+prinf("altura> %.2f metros\n",
+  return 0;
+}
